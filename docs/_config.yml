@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
 collections:
-  col1: test1
-  col2: test2
+  col1:
+    title: test1
+  col2:
+    title: test2
