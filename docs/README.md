@@ -1,5 +1,5 @@
 # test
 {{ site.theme }}
-{% for collection in site.collections[1] %}
+{% for collection in site.collections %}
 ( {{ forloop.index }} : {{ collection }} ) <br>
 {% endfor %}
