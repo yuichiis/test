@@ -1,2 +1,2 @@
 # test
-test
+{{ site.theme }}
