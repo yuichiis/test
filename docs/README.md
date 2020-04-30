@@ -1,4 +1,4 @@
-## test/docs
+## test/docs/readme
 
 ### Theme
 : {{ site.theme }}
