@@ -24,4 +24,4 @@ word
 word
 :  description
 
-[ghpages] <https://yuichiis.github.io/test/> (Published this page)
+[ghpages]: <https://yuichiis.github.io/test/> (Published this page)
