@@ -11,13 +11,19 @@
 - ( {{ forloop.index }} : {{ collection.title }} )
 {% endfor %}
 
+- list
+- list
+
 <div>
   - list
   - list
 </div>
 
+{::options parse_block_html="true" /}
+<div>
 - list
 - list
+</div>
 
 word
 :  define
