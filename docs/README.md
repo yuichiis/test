@@ -1,6 +1,6 @@
 ## test/docs/readme
 
-[Check][ghpages]
+[Check it out][ghpages]
 
 ### Theme
 : {{ site.theme }}
