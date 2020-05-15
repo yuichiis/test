@@ -1,5 +1,7 @@
 ## test/docs/readme
 
+[Check][yuichiis-ghpages]
+
 ### Theme
 : {{ site.theme }}
 
@@ -21,3 +23,5 @@ word
 :  define
 word
 :  description
+
+[yuichiis-ghpages] <https://yuichiis.github.io/test/docs> (Published this page)
