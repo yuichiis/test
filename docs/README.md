@@ -1,6 +1,6 @@
 ## test/docs/readme
 
-[Check][yuichiis-ghpages]
+[Check][ghpages]
 
 ### Theme
 : {{ site.theme }}
@@ -24,4 +24,4 @@ word
 word
 :  description
 
-[yuichiis-ghpages] <https://yuichiis.github.io/test/docs> (Published this page)
+[ghpages] <https://yuichiis.github.io/test/> (Published this page)
