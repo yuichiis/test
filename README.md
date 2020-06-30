@@ -10,4 +10,4 @@ readme in top of repository
 word
 :  define
 word
-:  description
+:  description 日本語
