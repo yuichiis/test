@@ -30,10 +30,8 @@ word
 word
 :  description
 
-<<<<<<< HEAD
 ![image](image.png)
 
-[ghpages]: <https://yuichiis.github.io/test/> (Published this page)
+![image](image2.png)
 =======
 [ghpages]: https://yuichiis.github.io/test/
->>>>>>> 20e10d73c0db156a45f8a0427fb9c1c51305cba4
